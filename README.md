@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Fire207/Fire207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an IT Supporter based in Switzerland, passionate about art, technology, and creative problem-solving.
 
-Here are some ideas to get you started:
+I’m just getting started on GitHub and excited to build new projects, learn more about coding, and share my journey. I love exploring how technology and creativity intersect—whether I’m troubleshooting systems or drawing in my sketchbook.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I’m not working with tech, you’ll find me enjoying anime (Eyeshield 21 is my all-time favorite!), sketching, or discovering new ways to blend art and IT.
+
+Fun Facts:
+
+I’m always up for a good tech challenge.
+
+Drawing and anime fuel my creativity.
+
+I’m eager to connect and collaborate with the GitHub community!
+
+Let’s build and learn together! 🚀
