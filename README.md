@@ -7,11 +7,8 @@ I’m just getting started on GitHub and excited to build new projects, learn mo
 When I’m not working with tech, you’ll find me enjoying anime (Eyeshield 21 is my all-time favorite!), sketching, or discovering new ways to blend art and IT.
 
 Fun Facts:
-
-I’m always up for a good tech challenge.
-
-Drawing and anime fuel my creativity.
-
-I’m eager to connect and collaborate with the GitHub community!
+- I’m always up for a good tech challenge.
+- Drawing and anime fuel my creativity.
+- I’m eager to connect and collaborate with the GitHub community!
 
 Let’s build and learn together! 🚀
